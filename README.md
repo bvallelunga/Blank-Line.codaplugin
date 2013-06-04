@@ -15,4 +15,4 @@ Last-Blank-Line **(Mac Only)**
 6. Application: Coda
 7. Menu Title: Last Blank Line
   - IMPORTANT that there are not any extra spaces on either side of "Last Blank Line"
-8. Keyboard Shortcut: COMMAND S
+8. Keyboard Shortcut: COMMAND + S
